@@ -3,3 +3,6 @@ This repository contains basic codes and fundamentals of Python, which I discove
 
 # 🐍What's Python?
 Python is a programming language that is flexible easy to learn, read and use. Python can be used it web development, data analysis, artificial intelligence and more.
+
+# 🔍Where should I start learning python from?
+The python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing that is required is your dedication💪🏿.
