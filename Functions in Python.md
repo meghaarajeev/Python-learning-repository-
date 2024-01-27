@@ -1,0 +1,11 @@
+# 🧵Strings 
+- A string is a collection of alphabets, words, or other characters.
+
+# 👷🏿Function
+1. **.upper()** - Converts all the letters in a string to Uppercase.
+2. **.lower()** - Converts all the letters in a string to Lowercase.
+3. **.isupper()** - Checks if all letters are in uppercase.
+4. **.islower()** - Check if all letters are lowercase.
+5. **len()** - Calculates the length of the given string.
+6. **.index()** - Used to iterate through each string letter.
+7.  **.replace()** - Used to replace a letter using another in a string.
