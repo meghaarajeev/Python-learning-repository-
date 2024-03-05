@@ -7,7 +7,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 # 🔍Where should I start learning Python from?
 The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing required is your dedication💪🏿.
 
-# Index
+# 📃List of Contents
 1. [Hello World](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/1.Hello%20World.md)
 2. [Variable in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/2.Variable%20in%20Python.md)
 3. [Functions in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/3.Functions%20in%20Python.md)
