@@ -29,3 +29,4 @@ The Python course I'm taking is [Python Backend Web Development Course](https://
 10. [Pattern2](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/10.Pattern2.py)
 11. [Pattern3](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/11.%20Pattern3.py)
 12. [Login System](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/12.Login%20System.py)
+13. [Armstrong Number](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/13.%20ArmstrongNumber.py)
