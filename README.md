@@ -31,3 +31,4 @@ The Python course I'm taking is [Python Backend Web Development Course](https://
 12. [Login System](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/12.Login%20System.py)
 13. [Armstrong Number](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/13.%20ArmstrongNumber.py)
 14. [Linear Search](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/14.%20Linear%20Search.py)
+15. [Pallindrome](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/15.%20Pallindrome.py)
