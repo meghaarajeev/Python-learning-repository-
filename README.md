@@ -15,6 +15,7 @@ The Python course I'm taking is [Python Backend Web Development Course](https://
 5. [Getting User's Input](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/5.Getting%20User's%20Input.md)
 6. [Building a Simple Word Replacement Pgm](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/6.Building%20a%20Simple%20Word%20Replacement%20Pgm.py)
 7. [List,Tuples and Dictionaries in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/7.List%20in%20Python.md)
+8. [Turtle Graphics](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/8.%20Turtle%20Graphics.md)
    
 # ➗Practice Problems
 1. [String](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/1.String.py)
