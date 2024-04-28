@@ -4,9 +4,6 @@
 # 🐍What's Python?
 Python is the fastest-growing programming language that is flexible easy to learn, read and use. Python can be used in web development, data analysis, artificial intelligence, and more.
 
-# 🔍Where should I start learning Python from?
-The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing required is your dedication💪🏿.
-
 # 📃List of Contents
 
 1. [Hello World](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/1.Hello%20World.md)
@@ -48,3 +45,10 @@ I have personally executed all the programs listed below, and I have obtained th
 19. [Radial Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/19.%20Turtle-Radialhexagon.py)
 20. [T in 2 colors](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/20.%20Turtle%20-%20T%20in%202%20colors.py)
 21. [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
+
+# 🔍Where should I start learning Python from?
+
+The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing need is your commitment and self-motivation💪🏿.
+
+I also referred the textbook [Fundamentals of Python First Programs](https://z-library.se/book/3703891/dde88b/fundamentals-of-python-first-programs-2nd-edition.html) - 2nd Edition by Kenneth A. Lambert.
+
