@@ -1,0 +1,12 @@
+ from turtle import Turtle
+ t=Turtle()
+ t.left(90)
+ t.forward(50)
+ t.left(90)
+ t.up()
+ t.forward(15)
+ t.setheading(0)
+ t.pencolor("red")
+ t.down()
+ t.forward(30)
+ t.hideturtle()
