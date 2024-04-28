@@ -8,6 +8,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing required is your dedication💪🏿.
 
 # 📃List of Contents
+
 1. [Hello World](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/1.Hello%20World.md)
 2. [Variable in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/2.Variable%20in%20Python.md)
 3. [Functions in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/3.Functions%20in%20Python.md)
@@ -18,7 +19,11 @@ The Python course I'm taking is [Python Backend Web Development Course](https://
 8. [Turtle Graphics](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/8.%20Turtle%20Graphics.md)
    
 # ➗Practice Problems
-All programs given below are personally executed by me and outputs are obtained
+I highly encourage you to take on these practice problems and run the programs yourself. Not only will it help you solidify your knowledge of Python, but it will also give you the satisfaction of seeing your code in action.
+
+I have personally executed all the programs listed below, and I have obtained their outputs to ensure that they work as expected. I am confident that these practice problems provide a great opportunity for you to apply your knowledge of Python, so, roll up your sleeves and get started!💪🏼
+
+## 🐍Basic Python Practice Programs
 1. [String](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/1.String.py)
 2. [Variables](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/7.Factorial%20using%20recursion.py)
 3. [Function](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/2.variables.py)
@@ -35,3 +40,11 @@ All programs given below are personally executed by me and outputs are obtained
 14. [Linear Search](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/14.%20Linear%20Search.py)
 15. [Pallindrome](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/15.%20Pallindrome.py)
 16. [Sorting Based on String Length](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/16.%20Sorting%20based%20on%20String%20length.py)
+
+## 🐢Turtle Graphics
+
+17. [Square](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/17.%20Turtle-Square.py)
+18. [Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/18.%20Turtle-Hexagon.py)
+19. [Radial Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/19.%20Turtle-Radialhexagon.py)
+20. [T in 2 colors](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/20.%20Turtle%20-%20T%20in%202%20colors.py)
+21. [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
