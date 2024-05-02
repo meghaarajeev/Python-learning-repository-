@@ -51,5 +51,5 @@ I have personally executed all the programs listed below, and I have obtained th
 
 The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing need is your commitment and self-motivation💪🏿.
 
-I also referred the textbook [Fundamentals of Python First Programs](https://z-library.se/book/3703891/dde88b/fundamentals-of-python-first-programs-2nd-edition.html) - 2nd Edition by Kenneth A. Lambert.
+I also referred the textbook [Fundamentals of Python First Programs](https://z-library.se/book/3703891/dde88b/fundamentals-of-python-first-programs-2nd-edition.html) - 2nd Edition by Kenneth A. Lambert. 
 
