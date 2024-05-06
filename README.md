@@ -8,7 +8,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 
 1. [Hello World](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/1.Hello%20World.md)
 2. [Variable in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/2.Variable%20in%20Python.md)
-3. [Functions in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/3.Functions%20in%20Python.md)
+3. [Functions in Python - Advanced Functions-Lambda Function](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/3.Functions%20in%20Python.md)
 4. [Numbers](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/4.Numbers.md)
 5. [Getting User's Input](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/5.Getting%20User's%20Input.md)
 6. [Building a Simple Word Replacement Pgm](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/6.Building%20a%20Simple%20Word%20Replacement%20Pgm.py)
