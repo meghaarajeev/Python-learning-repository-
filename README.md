@@ -12,7 +12,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 4. [Numbers](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/4.Numbers.md)
 5. [Getting User's Input](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/5.Getting%20User's%20Input.md)
 6. [Building a Simple Word Replacement Pgm](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/6.Building%20a%20Simple%20Word%20Replacement%20Pgm.py)
-7. [List,Tuples and Dictionaries in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/7.List%20in%20Python.md)
+7. [List,Tuples, Dictionaries and Loops in Python](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/7.List%20in%20Python.md)
 8. [Turtle Graphics](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/8.%20Turtle%20Graphics.md)
 9. [Image Processing](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/9.%20Image%20processing.md)
 10. [Graphical User interface](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/10%20.%20Grahical%20User%20Interface%20(GUI).md)
