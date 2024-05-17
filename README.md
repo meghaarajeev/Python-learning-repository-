@@ -46,7 +46,7 @@ I have personally executed all the programs listed below, and I have obtained th
 18. [Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/18.%20Turtle-Hexagon.py)
 19. [Radial Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/19.%20Turtle-Radialhexagon.py)
 20. [T in 2 colors](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/20.%20Turtle%20-%20T%20in%202%20colors.py)
-21. [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
+21.  [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
 22. [Spiral helix](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/22.%20Spiral%20Helix.py)
 23. [NOTEBOOK](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/24.%20Turtle.ipynb)
 
