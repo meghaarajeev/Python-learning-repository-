@@ -52,7 +52,6 @@ I have personally executed all the programs listed below, and I have obtained th
 
 ## [📸Image Processing](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
 
-## Table of Contents 
 23. Pillow Installation
 24. Image Methods
 25. Line drawing in Canvas
