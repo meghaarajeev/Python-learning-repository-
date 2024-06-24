@@ -39,6 +39,7 @@ I personally executed all the programs listed below, and obtained outputs to ens
 14. [Linear Search](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/14.%20Linear%20Search.py)
 15. [Pallindrome](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/15.%20Pallindrome.py)
 16. [Sorting Based on String Length](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/16.%20Sorting%20based%20on%20String%20length.py)
+17. [Number of even and odd numbers in from given n numbers.py](https://github.com/meghaarajeev/Python-learning-repository-/tree/main/Codes)
 
 ## 🐢Turtle Graphics
 
