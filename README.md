@@ -20,7 +20,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 # ➗Practice Problems
 I highly encourage you to take on these practice problems and run the programs yourself. Not only will it help you solidify your knowledge of Python, but it will also give you the satisfaction of seeing your code in action.
 
-I have personally executed all the programs listed below, and I have obtained their outputs to ensure that they work as expected. I am confident that these practice problems provide a great opportunity for you to apply your knowledge of Python, so, roll up your sleeves and get started!💪🏼
+I personally executed all the programs listed below, and obtained outputs to ensure that they work as expected. I am confident that these practice problems provide a great opportunity for you to apply your knowledge of Python, so, roll up your sleeves and get started!💪🏼
 
 ## 🐍Basic Python Practice Programs
 1. [String](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/1.String.py)
