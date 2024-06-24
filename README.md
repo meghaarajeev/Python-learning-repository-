@@ -42,21 +42,21 @@ I personally executed all the programs listed below, and obtained outputs to ens
 
 ## 🐢Turtle Graphics
 
-17. [Square](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/17.%20Turtle-Square.py)
-18. [Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/18.%20Turtle-Hexagon.py)
-19. [Radial Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/19.%20Turtle-Radialhexagon.py)
-20. [T in 2 colors](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/20.%20Turtle%20-%20T%20in%202%20colors.py)
-21.  [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
-22. [Spiral helix](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/22.%20Spiral%20Helix.py)
-23. [NOTEBOOK](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/24.%20Turtle.ipynb)
+1. [Square](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/17.%20Turtle-Square.py)
+2. [Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/18.%20Turtle-Hexagon.py)
+3. [Radial Hexagon](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/19.%20Turtle-Radialhexagon.py)
+4. [T in 2 colors](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/20.%20Turtle%20-%20T%20in%202%20colors.py)
+5.  [Star](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/21.%20Turtle-Star.py)
+6. [Spiral helix](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/22.%20Spiral%20Helix.py)
+7. [NOTEBOOK](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/24.%20Turtle.ipynb)
 
 ## [📸Image Processing](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
 
-23. Pillow Installation
-24. Image Methods
-25. Line drawing in Canvas
-26. Greyscale
-27. Black and White
+1. Pillow Installation
+2. Image Methods
+3. Line drawing in Canvas
+4. Greyscale
+5. Black and White
 
 # 🔍Where should I start learning Python from?
 
