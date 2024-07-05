@@ -60,7 +60,7 @@ I personally executed all the programs listed below, and obtained outputs to ens
 4. Greyscale
 5. Black and White
 
-_Note:Click the title to redirect to the link_
+_Note:Click the title to redirect to the code_
 # 🔍Where should I start learning Python from?
 
 The Python course I'm taking is [Python Backend Web Development Course](https://www.youtube.com/watch?v=jBzwzrDvZ18) by [freeCodeCamp.org](https://www.youtube.com/@freecodecamp). You can also start off from there. It's completely free and the only thing need is your commitment and self-motivation💪🏿.
