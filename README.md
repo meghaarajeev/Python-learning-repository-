@@ -52,13 +52,13 @@ I personally executed all the programs listed below, and obtained outputs to ens
 6. [Spiral helix](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/22.%20Spiral%20Helix.py)
 7. [NOTEBOOK](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/24.%20Turtle.ipynb)
 
-## [📸Image Processing](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
+## 📸Image Processing
 
-1. Pillow Installation
-2. Image Methods
-3. Line drawing in Canvas
-4. Greyscale
-5. Black and White
+1. [Pillow Installation](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
+2. [Image Methods](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
+3. [Line drawing in Canvas](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
+4. [Greyscale](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
+5. [Black and White](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Codes/ImageProcessing.ipynb)
 
 _Note:Click the title to redirect to the code_
 # 🔍Where should I start learning Python from?
