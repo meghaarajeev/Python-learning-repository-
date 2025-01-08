@@ -14,6 +14,7 @@
   10. **min()** -Prints the minimum value from the input stream
   11. **round()** - It is used round a decimal number and print the result.
   12. **bin()** - It prints the binary equivalent to the given input.
+  13. **swapcase()** - swaps upper case to lower and lower case to upper.
 
 # ⚒️Advanced Functions
   13.**map()** -  applies a function to all items in an iterable
