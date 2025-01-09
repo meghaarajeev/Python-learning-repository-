@@ -20,11 +20,11 @@
   16.  **join()** - combines elements of an iterable (like a list) into a single string, interposed with a specified separator.
 
 # ⚒️Advanced Functions
-  13.**map()** -  applies a function to all items in an iterable
+  17.**map()** -  applies a function to all items in an iterable
   ```
   map(function,iterable)
   ```
-  14.**filter()** - selects items from an iterable based on a function's condition.
+  18.**filter()** - selects items from an iterable based on a function's condition.
 
 # 💪🏼Lambda Functions
 
