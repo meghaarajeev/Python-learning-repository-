@@ -15,6 +15,9 @@
   11. **round()** - It is used round a decimal number and print the result.
   12. **bin()** - It prints the binary equivalent to the given input.
   13. **swapcase()** - swaps upper case to lower and lower case to upper.
+  14. **capitalize()** -  returns a copy of the string with its first character in uppercase and the rest in lowercase.
+  15.  **split()** - divides a string into a list of substrings based on a specified separator
+  16.  **join()** - combines elements of an iterable (like a list) into a single string, interposed with a specified separator.
 
 # ⚒️Advanced Functions
   13.**map()** -  applies a function to all items in an iterable
