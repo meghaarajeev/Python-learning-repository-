@@ -14,17 +14,18 @@
   10. **min()** -Prints the minimum value from the input stream
   11. **round()** - It is used round a decimal number and print the result.
   12. **bin()** - It prints the binary equivalent to the given input.
-  13. **swapcase()** - swaps upper case to lower and lower case to upper.
-  14. **capitalize()** -  returns a copy of the string with its first character in uppercase and the rest in lowercase.
-  15.  **split()** - divides a string into a list of substrings based on a specified separator
-  16.  **join()** - combines elements of an iterable (like a list) into a single string, interposed with a specified separator.
+  13. **.swapcase()** - swaps upper case to lower and lower case to upper.
+  14. **.capitalize()** -  returns a copy of the string with its first character in uppercase and the rest in lowercase.
+  15.  **.split()** - divides a string into a list of substrings based on a specified separator
+  16.  **.join()** - combines elements of an iterable (like a list) into a single string, interposed with a specified separator.
+  17.   **.strip()** -  used to remove specified leading and trailing characters from a string. By default, it removes whitespace characters (such as spaces, tabs, and newlines) from both ends of the string.
 
 # ⚒️Advanced Functions
-  17.**map()** -  applies a function to all items in an iterable
+  18. **map()** -  applies a function to all items in an iterable
   ```
   map(function,iterable)
   ```
-  18.**filter()** - selects items from an iterable based on a function's condition.
+  19. **filter()** - selects items from an iterable based on a function's condition.
 
 # 💪🏼Lambda Functions
 
