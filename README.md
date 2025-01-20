@@ -17,7 +17,7 @@ Python is the fastest-growing programming language that is flexible easy to lear
 9. [Image Processing](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/%20Image%20processing.md)
 10. [Graphical User interface](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/%20.%20Grahical%20User%20Interface%20(GUI).md)
 11. [Numpy](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/%20Numpy.md)
-12. [Strings]()
+12. [Strings](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Strings.md)
 13. [Regular Expressions](https://github.com/meghaarajeev/Python-learning-repository-/blob/main/Regular%20Expressions.md)
 # ➗Practice Problems
 I highly encourage you to take on these practice problems and run the programs yourself. Not only will it help you solidify your knowledge of Python, but it will also give you the satisfaction of seeing your code in action.
