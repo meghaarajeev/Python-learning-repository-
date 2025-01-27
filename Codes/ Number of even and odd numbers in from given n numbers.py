@@ -14,13 +14,13 @@ for i in l:
         o += 1
 print(f"Their are {e} even numbers and {o} odd numbers")
 
-output:
-Enter Limit: 6
-Enter numbers: 1
-Enter numbers: 3
-Enter numbers: 6
-Enter numbers: 4
-Enter numbers: 2
-Enter numbers: 2
-[1, 3, 6, 4, 2, 2]
-Their are 4 even numbers and 2 odd numbers
+# output:
+# Enter Limit: 6
+# Enter numbers: 1
+# Enter numbers: 3
+# Enter numbers: 6
+# Enter numbers: 4
+# Enter numbers: 2
+# Enter numbers: 2
+# [1, 3, 6, 4, 2, 2]
+# Their are 4 even numbers and 2 odd numbers
